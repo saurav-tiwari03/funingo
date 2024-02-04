@@ -14,8 +14,8 @@ export default function Divein() {
           </div>
         </div>
         <div className='mt-32'>
-          <div className='bg-[#416233] py-8'>
-              <p className='text-center text-2xl text-white font-bold'>
+          <div className='bg-[#416233]'>
+              <p className='text-center text-2xl text-white font-bold p-8'>
               Get ready to unleash your inner warrior in a <br/>
 paint-soaked spectacle at Funingo Adventure Arena's <br/>
 Paintball Battlefield. Our adrenaline-fueled battleground<br/>
