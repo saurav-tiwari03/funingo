@@ -22,6 +22,81 @@ export default function Keyfeature() {
             </div>
         </div>
       </div>
+      <div class="main-container">
+        <div class="item1"></div>
+        <div class="item2 pop-hover">
+            <div id="content-layout">
+                <h1>Immersive Battle Arenas:</h1>
+                <p>Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. </p>
+            </div>
+        </div>
+      </div>
+      <div class="main-container">
+        <div class="item1"></div>
+        <div class="item2 pop-hover">
+            <div id="content-layout">
+                <h1>Immersive Battle Arenas:</h1>
+                <p>Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. </p>
+            </div>
+        </div>
+      </div>
+      <div class="main-container">
+        <div class="item1"></div>
+        <div class="item2 pop-hover">
+            <div id="content-layout">
+                <h1>Immersive Battle Arenas:</h1>
+                <p>Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. </p>
+            </div>
+        </div>
+      </div>
+      <div class="main-container">
+        <div class="item1"></div>
+        <div class="item2 pop-hover">
+            <div id="content-layout">
+                <h1>Immersive Battle Arenas:</h1>
+                <p>Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. </p>
+            </div>
+        </div>
+      </div>
+      <div class="main-container">
+        <div class="item1"></div>
+        <div class="item2 pop-hover">
+            <div id="content-layout">
+                <h1>Immersive Battle Arenas:</h1>
+                <p>Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. Navigate through meticulously designed 
+                    battle arenas that offer a dynamic mix 
+                    of cover, obstacles, and strategic 
+                    vantage points. </p>
+            </div>
+        </div>
+      </div>
     </div>
   )
 }
