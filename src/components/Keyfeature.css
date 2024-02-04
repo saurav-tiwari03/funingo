@@ -20,7 +20,7 @@ body {
 .item1 {
   width: 50%;
   height: 500px;
-  background: url("./../assets/armed.png") no-repeat;
+  background: url("./../assets/Immersive-battle-arenas.jpg") no-repeat;
   background-size: cover;
   border-radius: 13px;
 }

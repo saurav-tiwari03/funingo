@@ -11,8 +11,8 @@ export default function Keyfeature() {
         <div class="item1"></div>
         <div class="item2 pop-hover">
             <div id="content-layout">
-                <h1>Immersive Battle Arenas:</h1>
-                <p>Navigate through meticulously designed 
+                <h1 className='text-[#416133] font-bold text-3xl'>Immersive Battle Arenas:</h1>
+                <p className='text-[#416133] text-xl mt-1'>Navigate through meticulously designed 
                     battle arenas that offer a dynamic mix 
                     of cover, obstacles, and strategic 
                     vantage points. Navigate through meticulously designed 
@@ -24,16 +24,14 @@ export default function Keyfeature() {
       </div>
       <div class="main-container">
         <div class="item1"></div>
-        <div class="item2 pop-hover">
+        <div class="item2 pop-hover ">
             <div id="content-layout">
-                <h1>Immersive Battle Arenas:</h1>
-                <p>Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. </p>
+                <h1 className='text-[#416133] font-bold text-3xl'>High-Quality Paintball Gear</h1>
+                <p className='text-[#416133] text-xl mt-1'> Arm yourself with top-of-the-line paintball 
+markers and gear at Funingo. 
+Our equipment ensures accuracy, reliability, 
+and a true-to-life paintball experience, 
+enhancing the intensity of every skirmish</p>
             </div>
         </div>
       </div>
@@ -41,14 +39,12 @@ export default function Keyfeature() {
         <div class="item1"></div>
         <div class="item2 pop-hover">
             <div id="content-layout">
-                <h1>Immersive Battle Arenas:</h1>
-                <p>Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. </p>
+                <h1 className='text-[#416133] font-bold text-3xl'>Biodegradable Paintballs:</h1>
+                <p className='text-[#416133] text-xl mt-1'>Engage in eco-friendly warfare with our
+ biodegradable paintballs that burst into 
+vibrant splatters upon impact. Play with 
+a conscience, knowing that your paintball 
+adventure is environmentally responsible. </p>
             </div>
         </div>
       </div>
@@ -56,14 +52,10 @@ export default function Keyfeature() {
         <div class="item1"></div>
         <div class="item2 pop-hover">
             <div id="content-layout">
-                <h1>Immersive Battle Arenas:</h1>
-                <p>Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. </p>
+                <h1 className='text-[#416133] font-bold text-3xl'>Strategic Gameplay:</h1>
+                <p className='text-[#416133] text-xl mt-1'> Immerse yourself in a variety of game
+ scenarios that require strategy, teamwork,
+ and quick thinking. </p>
             </div>
         </div>
       </div>
@@ -71,14 +63,10 @@ export default function Keyfeature() {
         <div class="item1"></div>
         <div class="item2 pop-hover">
             <div id="content-layout">
-                <h1>Immersive Battle Arenas:</h1>
-                <p>Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. </p>
+                <h1 className='text-[#416133] font-bold text-3xl'> Safety-First Approach:</h1>
+                <p className='text-[#416133] text-xl mt-1'>Your safety is paramount. Suit up in our 
+top-notch protective gear, including 
+masks, goggles, and padded clothing</p>
             </div>
         </div>
       </div>
@@ -86,14 +74,12 @@ export default function Keyfeature() {
         <div class="item1"></div>
         <div class="item2 pop-hover">
             <div id="content-layout">
-                <h1>Immersive Battle Arenas:</h1>
-                <p>Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. Navigate through meticulously designed 
-                    battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. </p>
+                <h1 className='text-[#416133] font-bold text-3xl'> Team Building and Camaraderie</h1>
+                <p className='text-[#416133] text-xl mt-1'>Paintball is not just a game; it's a team
+building experience. Collaborate with your 
+squad, communicate e ectively, and 
+execute tactical maneuvers to outsmart 
+your opponents and emerge victorious. </p>
             </div>
         </div>
       </div>
