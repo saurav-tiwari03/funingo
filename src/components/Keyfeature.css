@@ -20,10 +20,29 @@ body {
 .item1 {
   width: 50%;
   height: 500px;
-  background: url("./../assets/Immersive-battle-arenas.jpg") no-repeat;
+
   background-size: cover;
   border-radius: 13px;
 }
+.one {
+  background: url("./../assets/Immersive-battle-arenas.jpg") no-repeat;
+}
+.two {
+  background: url("./../assets/Paintball-gear.jpg") no-repeat;
+}
+.three {
+  background: url("./../assets/Biodigradable-paintball.jpg") no-repeat;
+}
+.four {
+  background: url("./../assets/safety-approach.jpg") no-repeat;
+}
+.five {
+  background: url("./../assets/Strategic\ gameplay.jpg") no-repeat;
+}
+.six {
+  background: url("./../assets/Team-building.jpg") no-repeat;
+}
+
 .item2 {
   width: 50%;
   min-height: 350px;
