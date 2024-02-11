@@ -5,7 +5,7 @@ export default function Divein() {
   return (
     <div className=''>
       <div className=''>
-        <h2 className='text-center text-3xl font-bold uppercase my-4 text-[#416233]'>
+        <h2 className='text-center text-3xl font-bold uppercase text-[#416233]'>
           Dive into a Colorful Showdown at <br/>Funingo Adventure Arena's Paintball Battlefield!
         </h2>
         <div className='flex justify-between items-center'>
@@ -13,7 +13,7 @@ export default function Divein() {
             <img src={armedMan} alt="" width={500}/>
           </div>
         </div>
-        <div className='mt-32'>
+        <div className='mt-32 bg-[#416233]'>
           <div className='bg-[#416233]'>
               <p className='text-center text-2xl text-white font-bold p-8'>
               Get ready to unleash your inner warrior in a <br/>

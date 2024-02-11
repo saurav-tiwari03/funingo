@@ -13,11 +13,11 @@ export default function SafetyMeasures() {
         </div>
         <h2 className='bg-[#416233] text-4xl font-bold text-white text-center mb-4 p-1'>‘Secure Adventures, Fearless Fun’ </h2>
       </div>
-      <div>
-        <div className='grid md:grid-rows-4 grid-rows-8 grid-flow-col gap-y-10 '>
+      <div className='flex items-center justify-center'>
+        <div className='grid md:grid-rows-4 grid-rows-8 grid-flow-col gap-y-10 gap-x-20'>
           <div className='flex w-[390px] md:m-auto'>
             <div className='bg-[#ededed]  flex flex-col p-2' id='safety-measure'>
-              <h2 className='text-xl font-semibold'>Safety Briefing:</h2>
+              <h2 className='text-xl font-semibold pb-4'>Safety Briefing:</h2>
               <p>Before the game begins, we conduct a 
                 thorough safety briefing for all participants. 
                 In which we cover essential rules, guidelines, 
@@ -27,7 +27,7 @@ export default function SafetyMeasures() {
           </div>
           <div className=' flex w-[390px] m-auto'>
           <div className='bg-[#a4cc81]  p-2 ' id='safety-measure'>
-              <h2 className='text-xl font-semibold'>Protective Gear:</h2>
+              <h2 className='text-xl font-semibold pb-4'>Protective Gear:</h2>
               <p>Before the game begins, we conduct a 
                 thorough safety briefing for all participants. 
                 In which we cover essential rules, guidelines, 
@@ -37,7 +37,7 @@ export default function SafetyMeasures() {
           </div>
           <div className='flex w-[390px] m-auto'>
           <div className='bg-[#ededed]  p-2' id='safety-measure'>
-              <h2 className='text-xl font-semibold'>Chronograph Testing:</h2>
+              <h2 className='text-xl font-semibold pb-4'>Chronograph Testing:</h2>
               <p>Before the game begins, we conduct a 
                 thorough safety briefing for all participants. 
                 In which we cover essential rules, guidelines, 
@@ -47,7 +47,7 @@ export default function SafetyMeasures() {
           </div>
           <div className='flex w-[390px] m-auto'>
           <div className='bg-[#a4cc81] p-2'  id='safety-measure'>
-              <h2 className='text-xl font-semibold'>Barrel Covers:</h2>
+              <h2 className='text-xl font-semibold pb-4'>Barrel Covers:</h2>
               <p>Before the game begins, we conduct a 
                 thorough safety briefing for all participants. 
                 In which we cover essential rules, guidelines, 
@@ -57,7 +57,7 @@ export default function SafetyMeasures() {
           </div>
           <div className='flex w-[390px] m-auto'>
           <div className='bg-[#ededed] p-2 ' id='safety-measure'>
-              <h2 className='text-xl font-semibold'>Field Inspection:</h2>
+              <h2 className='text-xl font-semibold pb-4'>Field Inspection:</h2>
               <p>Before the game begins, we conduct a 
                 thorough safety briefing for all participants. 
                 In which we cover essential rules, guidelines, 
@@ -67,7 +67,7 @@ export default function SafetyMeasures() {
           </div>
           <div className='flex w-[390px] m-auto'>
           <div className='bg-[#a4cc81] p-2' id='safety-measure'>
-              <h2 className='text-xl font-semibold'>First Aid and Emergency Procedures:</h2>
+              <h2 className='text-xl font-semibold pb-4'>First Aid and Emergency Procedures:</h2>
               <p>Before the game begins, we conduct a 
                 thorough safety briefing for all participants. 
                 In which we cover essential rules, guidelines, 
@@ -77,7 +77,7 @@ export default function SafetyMeasures() {
           </div>
           <div className='flex w-[390px] m-auto'>
           <div className='bg-[#ededed] p-2' id='safety-measure'>
-              <h2 className='text-xl font-semibold'>Player Physical Condition:</h2>
+              <h2 className='text-xl font-semibold pb-4'>Player Physical Condition:</h2>
               <p>Before the game begins, we conduct a 
                 thorough safety briefing for all participants. 
                 In which we cover essential rules, guidelines, 
@@ -87,7 +87,7 @@ export default function SafetyMeasures() {
           </div>
           <div className='flex w-[390px] m-auto'>
           <div className='bg-[#a4cc81] p-2' id='safety-measure'>
-              <h2 className='text-xl font-semibold'>Referee Oversight::</h2>
+              <h2 className='text-xl font-semibold pb-4'>Referee Oversight::</h2>
               <p>Before the game begins, we conduct a 
                 thorough safety briefing for all participants. 
                 In which we cover essential rules, guidelines, 
