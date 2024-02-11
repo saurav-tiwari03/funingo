@@ -24,7 +24,7 @@ export default function Keyfeature() {
       </div>
       <div class="main-container">
         <div class="item1"></div>
-        <div class="item2 pop-hover ">
+        <div class="item2 pop-hover " id='even'>
             <div id="content-layout">
                 <h1 className='text-[#416133] font-bold text-3xl'>High-Quality Paintball Gear</h1>
                 <p className='text-[#416133] text-xl mt-1'> Arm yourself with top-of-the-line paintball 
@@ -50,7 +50,7 @@ adventure is environmentally responsible. </p>
       </div>
       <div class="main-container">
         <div class="item1"></div>
-        <div class="item2 pop-hover">
+        <div class="item2 pop-hover" id='even'>
             <div id="content-layout">
                 <h1 className='text-[#416133] font-bold text-3xl'>Strategic Gameplay:</h1>
                 <p className='text-[#416133] text-xl mt-1'> Immerse yourself in a variety of game
@@ -72,7 +72,7 @@ masks, goggles, and padded clothing</p>
       </div>
       <div class="main-container">
         <div class="item1"></div>
-        <div class="item2 pop-hover">
+        <div class="item2 pop-hover" id='even'>
             <div id="content-layout">
                 <h1 className='text-[#416133] font-bold text-3xl'> Team Building and Camaraderie</h1>
                 <p className='text-[#416133] text-xl mt-1'>Paintball is not just a game; it's a team

@@ -38,6 +38,9 @@ body {
   margin-left: -150px;
   transition: transform 0.5s ease;
 }
+#even {
+  margin-left: -700px;
+}
 
 .item2:hover {
   transform: scale(1.1);
@@ -76,9 +79,15 @@ p {
   h1 {
     font-size: 29px;
   }
+  #even {
+    margin: 0;
+  }
 }
 
 @media only screen and (max-width: 768px) {
+  #even {
+    margin: 0;
+  }
   .main-container {
     flex-direction: column;
     width: 100%;
