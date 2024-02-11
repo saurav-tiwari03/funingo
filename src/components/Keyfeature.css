@@ -20,7 +20,6 @@ body {
 .item1 {
   width: 50%;
   height: 500px;
-
   background-size: cover;
   border-radius: 13px;
 }
@@ -46,8 +45,7 @@ body {
 .item2 {
   width: 50%;
   min-height: 350px;
-  background: url("./../assets/paintball-page-keyfeature-patch2.png") no-repeat
-    center / cover;
+  background: url("./../assets/paintball-page-keyfeature-patch2.png") no-repeat center / cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -98,14 +96,11 @@ p {
   h1 {
     font-size: 29px;
   }
-  #even {
-    margin: 0;
-  }
 }
 
 @media only screen and (max-width: 768px) {
   #even {
-    margin: 0;
+    margin-left: 0;
   }
   .main-container {
     flex-direction: column;

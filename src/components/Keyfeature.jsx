@@ -17,8 +17,7 @@ export default function Keyfeature() {
                     of cover, obstacles, and strategic 
                     vantage points. Navigate through meticulously designed 
                     battle arenas that offer a dynamic mix 
-                    of cover, obstacles, and strategic 
-                    vantage points. </p>
+                    of cover</p>
             </div>
         </div>
       </div>
