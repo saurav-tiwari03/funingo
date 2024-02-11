@@ -5,13 +5,8 @@
 body {
   user-select: none;
 }
-
-#armed-box {
-  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); 
-}
-#text-border {
-  -webkit-text-stroke: 1px white;
-}
-#safety-measure {
-  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23); 
+#cover {
+  background-image: url("./assets/svgtopng/Getready\ patch-01.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }

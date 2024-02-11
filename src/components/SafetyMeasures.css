@@ -1,0 +1,17 @@
+#white {
+  background: url("./../assets/svgtopng/safetymeasurepointpatch1-05.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+#green {
+  background-image: url("./../assets/svgtopng/safetymeasurepointpatch2-06.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+#heading {
+  background-image: url("./../assets/svgtopng/secureadventurepatch-04.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

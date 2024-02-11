@@ -13,13 +13,13 @@ export default function Divein() {
             <img src={armedMan} alt="" width={500}/>
           </div>
         </div>
-        <div className='mt-32 bg-[#416233]'>
-          <div className='bg-[#416233]'>
-              <p className='text-center text-2xl text-white font-bold p-8'>
-              Get ready to unleash your inner warrior in a <br/>
-paint-soaked spectacle at Funingo Adventure Arena's <br/>
-Paintball Battlefield. Our adrenaline-fueled battleground<br/>
-is the perfect playground for thrill-seekers, <br/>
+        <div className='' id='cover'>
+          <div className='pb-2' >
+              <p className='text-center text-2xl text-white font-bold pt-24 pb-4'>
+              Get ready to unleash your inner warrior in a
+paint-soaked spectacle at Funingo Adventure Arena's
+Paintball Battlefield. Our adrenaline-fueled battlegroun
+is the perfect playground for thrill-seekers,
 where strategy meets action in a vibrant burst of colors
               </p>
           </div>
