@@ -1,9 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Saira:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-body {
-  user-select: none;
+#headings {
+  font-family: "Luckiest Guy", cursive;
 }
 #cover {
   background-image: url("./assets/svgtopng/Getready\ patch-01.png");

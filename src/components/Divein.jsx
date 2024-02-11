@@ -5,7 +5,7 @@ export default function Divein() {
   return (
     <div className=''>
       <div className=''>
-        <h2 className='text-center text-3xl font-bold uppercase text-[#416233]'>
+        <h2 className='text-center text-3xl font-bold uppercase text-[#416233]' id='headings'>
           Dive into a Colorful Showdown at <br/>Funingo Adventure Arena's Paintball Battlefield!
         </h2>
         <div className='flex justify-between items-center'>
